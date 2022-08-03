@@ -2,15 +2,17 @@
  
  👨‍💻 I’m a Front-end Developer and currently learning React.js, Next.js and other cool thing related to Web Develop.
  
- 
- 
+ <br/>
+  <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaAdabi&show_icons=true&theme=nightowl)
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAdabi&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+ <br/>
+  <br/>
 
  💼 Technical Skills
  
@@ -22,7 +24,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
  
- 
+  <br/>
+  <br/>
  
 Contact Me
  
