@@ -3,7 +3,6 @@
  👨‍💻 I’m a Front-end Developer and currently learning React.js, Next.js and other cool thing related to Web Develop.
  
  <br/>
-  <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaAdabi&show_icons=true&theme=nightowl)
  
@@ -12,7 +11,6 @@
 
 
  <br/>
-  <br/>
 <h3>
  💼 Technical Skills
 </h3>
@@ -25,7 +23,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
  
-  <br/>
   <br/>
  <h3>
 
