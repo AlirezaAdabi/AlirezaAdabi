@@ -38,7 +38,7 @@ Contact Me
  </h3>
 
 <a href="https://www.linkedin.com/in/alireza-adabi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alireza | LinkedIn" width="21px"/></a>
-<a href="mailto:alireza.adabi78@gmail.com"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="ALireza | Gmail" width="24px"/></a>
+<a href="mailto:mail@alireza-adabi.ir"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="ALireza | Gmail" width="24px"/></a>
 <a href="https://github.com/AlirezaAdabi/AlirezaAdabi/raw/main/Resume_2.pdf"><img align="left" src="https://www.freeiconspng.com/download/19025" alt="ALireza | Resume" width="21px"/></a>
 
 
