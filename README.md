@@ -1,4 +1,4 @@
- ![Header](./github-header-image.png)
+ ![Header](./github-header-image-updated.png)
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AlirezaAdabi&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
  -->
@@ -10,10 +10,10 @@
 
  <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaAdabi&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaAdabi&show_icons=true&theme=github_dark_dimmed)
  <br/>
   <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAdabi&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAdabi&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <br/>
